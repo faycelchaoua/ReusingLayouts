@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Re-using Layouts</string>
+    <string name="hello">Hello World!</string>
+    <string name="logoDescription">e-formation.tn</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+</resources>
