@@ -1,4 +1,4 @@
-package com.faycelchaoua.reusinglayouts;
+package com.isetkelibia.reusinglayouts;
 
 import org.junit.Test;
 
